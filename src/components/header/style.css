@@ -1,0 +1,18 @@
+
+
+.header {
+    display: flex;
+    background-color: darkcyan;
+    justify-content: space-between;
+    padding: 20px 60px;
+    background: #6262D9;margin: 0 0 60px;
+}
+
+h1 {
+
+    color:#fff;
+    font-weight: 700;
+    font-size:39.67px;
+    line-height:52.44px;
+}
+
