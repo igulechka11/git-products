@@ -1,0 +1,12 @@
+
+
+ul.nav {display: flex;}
+ul.nav {
+    display: flex;
+    gap: 20px;
+    color: #fff;
+    font-weight: 600;
+    text-transform: uppercase;
+    list-style-type: none;
+}
+

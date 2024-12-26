@@ -1,0 +1,48 @@
+a {text-decoration: none;}
+.item {
+    text-align: left;
+    width: 172px;
+    position: relative;
+    margin: 0 12.2px 30px;
+}
+
+.item .cover img {
+    height: 168px;
+    box-shadow: 0px 5px 10px rgb(0 0 0 / 10%), 0px 1px 3px rgb(0 0 0 / 20%);
+    border-radius: 3px;
+}
+
+
+
+.item .author {
+    font-size: 16px;
+    line-height: 20px;
+    color: #767579;
+    margin: 15px 0 0;
+}
+
+.item .name {
+    margin: 5px 0 0;
+    font-size: 18px;
+    line-height: 22px;
+    color: #3b393f
+}
+
+.item .favorite {
+    width:20px; 
+    height: 21px; 
+    display: inline-block; 
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+   
+}
+
+
+.item .icon_wrap {
+    margin: 15px 0 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+}
+.item .icon_wrap span {cursor: pointer;}
